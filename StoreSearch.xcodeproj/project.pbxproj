@@ -14,6 +14,7 @@
 		5F027ACA25D3536600B7BD20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F027AC925D3536600B7BD20 /* Assets.xcassets */; };
 		5F027ACD25D3536600B7BD20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F027ACB25D3536600B7BD20 /* LaunchScreen.storyboard */; };
 		5F2DE8B125DE79BF00BA1287 /* SearchResultCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F2DE8B025DE79BF00BA1287 /* SearchResultCell.xib */; };
+		5F6E3E6225E51CC40093573C /* NothingFoundCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F6E3E6125E51CC40093573C /* NothingFoundCell.xib */; };
 		5FD830CE25DC1666005944BD /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD830CD25DC1666005944BD /* SearchResult.swift */; };
 		5FEC1ABD25DEB10F000D479F /* SearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FEC1ABC25DEB10F000D479F /* SearchResultCell.swift */; };
 /* End PBXBuildFile section */
@@ -28,6 +29,7 @@
 		5F027ACC25D3536600B7BD20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F027ACE25D3536600B7BD20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F2DE8B025DE79BF00BA1287 /* SearchResultCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchResultCell.xib; sourceTree = "<group>"; };
+		5F6E3E6125E51CC40093573C /* NothingFoundCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NothingFoundCell.xib; sourceTree = "<group>"; };
 		5FD830CD25DC1666005944BD /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 		5FEC1ABC25DEB10F000D479F /* SearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -72,6 +74,7 @@
 				5FD830CD25DC1666005944BD /* SearchResult.swift */,
 				5F2DE8B025DE79BF00BA1287 /* SearchResultCell.xib */,
 				5FEC1ABC25DEB10F000D479F /* SearchResultCell.swift */,
+				5F6E3E6125E51CC40093573C /* NothingFoundCell.xib */,
 			);
 			path = StoreSearch;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 				5F027ACD25D3536600B7BD20 /* LaunchScreen.storyboard in Resources */,
 				5F027ACA25D3536600B7BD20 /* Assets.xcassets in Resources */,
 				5F2DE8B125DE79BF00BA1287 /* SearchResultCell.xib in Resources */,
+				5F6E3E6225E51CC40093573C /* NothingFoundCell.xib in Resources */,
 				5F027AC825D3536400B7BD20 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
